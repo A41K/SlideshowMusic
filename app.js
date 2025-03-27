@@ -12,19 +12,19 @@ const songs = [
     {
         title: "Lost",
         artist: "Frank Ocean",
-        audioUrl: "songs/ChannelOrange/Lost.mp3",
+        audioUrl: "/songs/ChannelOrange/Lost.mp3",
         coverUrl: "covers/channelORANGE.png"
     },
     {
         title: "Blood",
         artist: "Kendrick Lamar",
-        audioUrl: "songs/DAMN/Blood.mp3",
+        audioUrl: "/songs/DAMN/Blood.mp3",
         coverUrl: "covers/DAMN.png"
     },
     {
         title: "Pink + White",
         artist: "Frank Ocean",
-        audioUrl: "songs/Blonde/Pink + White.mp3",
+        audioUrl: "/songs/Blonde/Pink + White.mp3",
         coverUrl: "covers/Blonde.png"
     },
     {
@@ -36,9 +36,21 @@ const songs = [
     {
         title: "The Blacker The Berry",
         artist: "Kendrick Lamar",
-        audioUrl: "songs/TPAB/The Blacker The Berry.mp3",
+        audioUrl: "/songs/TPAB/The Blacker The Berry.mp3",
         coverUrl: "covers/TPAB.png"
     },
+    {
+        title: "m.A.A.d city",
+        artist: "Kendrick Lamar",
+        audioUrl: "/songs/GKMC/m.A.A.d city.mp3",
+        coverUrl: "covers/GKMC.png"
+    },
+    {
+        title: "Nights",
+        artist: "Frank Ocean",
+        audioUrl: "/songs/Blonde/Nights.mp3",
+        coverUrl: "covers/Blonde.png"
+    }
 ];
 
 let currentSongIndex = 0;
