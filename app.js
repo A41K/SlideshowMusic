@@ -18,7 +18,7 @@ const songs = [
     {
         title: "Blood",
         artist: "Kendrick Lamar",
-        audioUrl: "/songs/DAMN/Blood.mp3",
+        audioUrl: "/songs/DAMN/BLOOD.mp3",
         coverUrl: "covers/DAMN.png"
     },
     {
